@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Programación de Aplicaciones Móviles II</string>
+    <string name="university">Universidad Manuela Beltrán</string>
+    <string name="program_name">Ingeniería de Software</string>
+    <string name="subject_name">Programación de Aplicaciones Móviles II</string>
+    <string name="student_name">Integrante: Daniel Fernando Barragan Chia</string>
+    <string name="semester_year">Semestre: 6</string>
+    <string name="teacher_name">Docente: Robert Osorio</string>
+</resources>
